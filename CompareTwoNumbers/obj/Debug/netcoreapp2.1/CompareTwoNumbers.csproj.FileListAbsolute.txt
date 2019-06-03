@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\CompareTwoNumbers\CompareTwoNumbers\bin\Debug\netcoreapp2.1\CompareTwoNumbers.deps.json
+C:\Users\PC\source\repos\CompareTwoNumbers\CompareTwoNumbers\bin\Debug\netcoreapp2.1\CompareTwoNumbers.runtimeconfig.json
+C:\Users\PC\source\repos\CompareTwoNumbers\CompareTwoNumbers\bin\Debug\netcoreapp2.1\CompareTwoNumbers.runtimeconfig.dev.json
+C:\Users\PC\source\repos\CompareTwoNumbers\CompareTwoNumbers\bin\Debug\netcoreapp2.1\CompareTwoNumbers.dll
+C:\Users\PC\source\repos\CompareTwoNumbers\CompareTwoNumbers\bin\Debug\netcoreapp2.1\CompareTwoNumbers.pdb
+C:\Users\PC\source\repos\CompareTwoNumbers\CompareTwoNumbers\obj\Debug\netcoreapp2.1\CompareTwoNumbers.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\CompareTwoNumbers\CompareTwoNumbers\obj\Debug\netcoreapp2.1\CompareTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CompareTwoNumbers\CompareTwoNumbers\obj\Debug\netcoreapp2.1\CompareTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CompareTwoNumbers\CompareTwoNumbers\obj\Debug\netcoreapp2.1\CompareTwoNumbers.AssemblyInfo.cs
+C:\Users\PC\source\repos\CompareTwoNumbers\CompareTwoNumbers\obj\Debug\netcoreapp2.1\CompareTwoNumbers.dll
+C:\Users\PC\source\repos\CompareTwoNumbers\CompareTwoNumbers\obj\Debug\netcoreapp2.1\CompareTwoNumbers.pdb
